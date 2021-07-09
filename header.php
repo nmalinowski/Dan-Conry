@@ -1,7 +1,4 @@
 ﻿<?php 
-// Nathaniel A. Malinowski
-// Copyright (2015) Le GeeX
-// iHeartRadio® Banner Schedule
 $h = date('G'); //set variable $h to the hour of the day 
 $d = date('w'); //set variable $d to the day of the week. 
 //G is the date key for hours in 24 format (not 12), with no leading 0s, like 02. 
